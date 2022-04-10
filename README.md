@@ -1,0 +1,8 @@
+- 👋 Hi, I am Rilind Hajdari, student of computer science at Universum college, semester 6. I have held trainings for full stack developer at ARRA Academy, Awesome Coding, Open Data Kosovo and I am certified
+- 👀 I am interested in practice or internship either in the back end or in the front end
+- 🌱 I am currently learning PHP programming language
+- 📫 You can contact me 
+- E-mail: rilindhajdari5@gmail.com
+- LinkedIn: Rilind Hajdari
+- Phone: +383 44 848 964
+- Facebook: Rilind Xh Hajdari
